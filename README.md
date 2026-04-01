@@ -22,6 +22,7 @@ This project is a simple IP Blocklist application built with React, TypeScript a
 ```bash
 npm install
 npm run dev
+```md
 
 ## 🧠 What I Learned
 - State management with useState
